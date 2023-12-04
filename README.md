@@ -9,3 +9,4 @@
 
  - If a user presses enter before their turn starts, it will count it towards their score
 
+- Even if the timer supposedly runs out of time, it will still wait for one more input instead of ending the turn
