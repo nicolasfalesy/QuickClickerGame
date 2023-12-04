@@ -1,5 +1,3 @@
-package in_class_assignment;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
