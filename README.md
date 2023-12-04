@@ -1,4 +1,6 @@
-# Press enter as fast as possible in this simple, yet fun game.
+# Quick Clicker - by Nicolas Falesy
+
+## Press enter as fast as possible in this simple, yet fun game.
 
 ### *KNOWN ISSUES*
  - If two or more users get the same score, it doesn't work properly - need to use an array list to fix that
